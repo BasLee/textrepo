@@ -97,7 +97,7 @@
           <artifactId>commons-logging</artifactId>
         </exclusion>
       </exclusions>
-      <version>7.12.0</version>
+      <version>7.17.8</version>
     </dependency>
 
     <!-- Client: -->
