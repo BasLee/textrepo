@@ -28,7 +28,7 @@
     <checkstyle.config.location>https://raw.githubusercontent.com/knaw-huc/checkstyle/master/checkstyle_config.xml
     </checkstyle.config.location>
 
-    <dropwizard.version>2.1.2</dropwizard.version>
+    <dropwizard.version>3.0.9</dropwizard.version>
     <jdbi3-sqlobject.version>3.9.1</jdbi3-sqlobject.version>
     <jersey.version>2.33</jersey.version>
     <json-path.version>2.5.0</json-path.version>
