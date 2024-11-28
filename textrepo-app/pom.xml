@@ -34,7 +34,7 @@
     </checkstyle.config.location>
 
     <commons-lang.version>3.12.0</commons-lang.version>
-    <dropwizard.version>2.0.21</dropwizard.version>
+    <dropwizard.version>2.1.10</dropwizard.version>
     <dropwizard-swagger.version>2.0.0-1</dropwizard-swagger.version>
     <flyway.version>7.15.0</flyway.version>
     <jdbi3-sqlobject.version>3.9.1</jdbi3-sqlobject.version>
